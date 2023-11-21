@@ -310,7 +310,7 @@ export const projects = [
       "https://i.pinimg.com/originals/d1/40/fa/d140fa7454523f708c72d2242a9c970d.png",
     tags: ["REACTJS", "RENDER", "JAVASCRIPT", "EMAILJS"],
     category: "Web development",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/uwais67/personal-portfolio",
+    webapp: "https://portfolio67.onrender.com",
   },
 ];
